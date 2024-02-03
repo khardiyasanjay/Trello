@@ -7,5 +7,5 @@ import java.util.List;
 public class LIST {
     private String id;
     private String name;
-    private List<Card> cards;
+    private List<String> cards;
 }

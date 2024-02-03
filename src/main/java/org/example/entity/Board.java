@@ -9,6 +9,6 @@ public class Board {
     private String name;
     private String privacy;
     private String url;
-    private List<User> members;
-    private List<LIST> lists;
+    private List<String> members;
+    private List<String> lists;
 }
